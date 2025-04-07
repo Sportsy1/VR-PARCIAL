@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 3
   tags:
   - Knife 1
+  - Knife 2
+  - Knife 3
+  - Knife 4
+  - Plate 1
+  - Plate 2
+  - Plate 3
+  - Plate 4
+  - Plate 5
   layers:
   - Default
   - TransparentFX
